@@ -12,3 +12,5 @@
  8. React vs Angular vs Vue
  9. What's new with Angular 10
  10. Angular Interview Questions
+
+### In this repo I'll cover all the list of Lessons with demo
