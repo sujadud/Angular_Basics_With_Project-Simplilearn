@@ -14,7 +14,7 @@
  9. What's new with Angular 10
  10. Angular Interview Questions
 
-## 1. What is Angular?
+## Lesson 1 - What is Angular?
 
  1. Angular is an open source, JavaScript framework.
  2. It's completely written in TypeScript.
