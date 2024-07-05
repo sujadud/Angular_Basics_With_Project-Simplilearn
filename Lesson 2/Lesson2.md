@@ -85,3 +85,5 @@ When it's done change the directory:
 
 This line of code is changed.
 > `<span>Hey! Welcome to this Anguler Tutorial</span>`
+
+**Let's go, into the code.**
