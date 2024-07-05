@@ -88,4 +88,12 @@ Now services, classes, modules, components, all of these are benefactors of depe
  - Create a Service that performs the task of displaying an employee list.
  - Inject the service into the class using Dependency Injection.
 
+
+In the Angular Demo first create a component **emp_info**.
+
+    ng g c emp_info
+After that add a service **records**.
+
+    ng g s records
+
 **Let's go, into the code.**
