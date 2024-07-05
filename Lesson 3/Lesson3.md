@@ -21,7 +21,7 @@ To create an Angular component, we'll create a new project name DemoComponents.
 
 2. Exclude the project using terminal:
 > ng serve
-> or
+or
 > ng s
 
 3. Navigate to your project directory:
@@ -29,7 +29,7 @@ To create an Angular component, we'll create a new project name DemoComponents.
 
 4. Generate a new component:
 > ng generate component textcomponent
-> or 
+or 
 > ng g c TextComponent
 
 It will generate a new component in side the project location `DemoComponents/src/app/text-component`.
