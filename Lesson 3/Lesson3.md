@@ -18,27 +18,27 @@
 To create an Angular component, we'll create a new project name DemoComponents.
 1. Open vscode and in the terminal type the command:
 
-    > ng new DemoComponents
+    `ng new DemoComponents`
 
 2. Exclude the project using terminal:
 
-    > ng serve
+    `ng serve`
 
 or
 
-    > ng s
+    `ng s`
 
 3. Navigate to your project directory:
 
-    cd DemoComponents
+    `cd DemoComponents`
 
 4. Generate a new component:
 
-    ng generate component textcomponent
+    `ng generate component textcomponent`
 
 or 
 
-    ng g c TextComponent
+    `ng g c TextComponent`
 
 It will generate a new component in side the project location `DemoComponents/src/app/text-component`.
 By default, this command creates the following files:
