@@ -1,0 +1,9 @@
+.alart{
+    color: white;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.alart-denger{
+    background-color: red;
+}
