@@ -1,6 +1,6 @@
 # Angular Basics - Simplilearn
 
-## Lesson 5 - Angular Services
+## Lesson 6 - Angular Services
 
 An Angular app divided into several components.
 
