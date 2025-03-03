@@ -2233,11 +2233,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sujad UD\\source\\repos\\Contact_Angular+Asp.net_Core\\Contact\\Contact\\Contact.csproj",
+      "projectUniqueName": "C:\\Users\\Sujad UD\\source\\repos\\sujadud\\Angular_Basics_With_Project-Simplilearn\\Project_Contact_Angular+Asp.net_Core\\Contact\\Contact\\Contact.csproj",
       "projectName": "Contact",
-      "projectPath": "C:\\Users\\Sujad UD\\source\\repos\\Contact_Angular+Asp.net_Core\\Contact\\Contact\\Contact.csproj",
+      "projectPath": "C:\\Users\\Sujad UD\\source\\repos\\sujadud\\Angular_Basics_With_Project-Simplilearn\\Project_Contact_Angular+Asp.net_Core\\Contact\\Contact\\Contact.csproj",
       "packagesPath": "C:\\Users\\Sujad UD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sujad UD\\source\\repos\\Contact_Angular+Asp.net_Core\\Contact\\Contact\\obj\\",
+      "outputPath": "C:\\Users\\Sujad UD\\source\\repos\\sujadud\\Angular_Basics_With_Project-Simplilearn\\Project_Contact_Angular+Asp.net_Core\\Contact\\Contact\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

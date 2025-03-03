@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nbqSmkgIHlM=",
+  "dgSpecHash": "W8Y02QoAu1c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sujad UD\\source\\repos\\Contact_Angular+Asp.net_Core\\Contact\\Contact\\Contact.csproj",
+  "projectFilePath": "C:\\Users\\Sujad UD\\source\\repos\\sujadud\\Angular_Basics_With_Project-Simplilearn\\Project_Contact_Angular+Asp.net_Core\\Contact\\Contact\\Contact.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sujad UD\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sujad UD\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
